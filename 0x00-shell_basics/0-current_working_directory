@@ -1,4 +1,2 @@
 #!/bin/bash
-root@281b585af246:~/alx-pt/shell/0x00-shell_basics# pwd -L
-/root/alx-pt/shell/0x00-shell_basics
-
+pwd -L
